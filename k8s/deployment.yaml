@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cv-app
-        image: gcr.io/srivatsan-project/imgwebapp:v1
+        image: gcr.io/united-aura-322008/imgwebapp
         ports:
         - containerPort: 8501
