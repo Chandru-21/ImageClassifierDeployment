@@ -1,6 +1,6 @@
 # ImageClassifierDeployment
 
-Continuous Deployment.
+CI/CD using Docker and Kubernetes
 
 App link-http://34.82.93.40/
 
